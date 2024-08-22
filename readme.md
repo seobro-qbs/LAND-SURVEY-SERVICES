@@ -1,6 +1,6 @@
 # Land Survey Services by Josmar Consulting
 
-[![Josmar Consulting](https://josmarconsulting.com/logo1.png)](https://josmarconsulting.com)
+[![Josmar Consulting](https://josmarconsulting.com/images/logo1.png)](https://josmarconsulting.com)
 
 ## Overview
 
